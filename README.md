@@ -21,3 +21,5 @@ ecoPath encourages users to reduce their emissions and pick the most eco friendl
 It is simple to use and could be integrated into municipal and provincial incentive programs to reward citizens 
 who reduce their emissions and encourage usage.
 
+Note: the "JJAC" file is the first edition save of the project where as "CalgaryHacks2019ActualFinalProject" is the completed version that was presented.
+
